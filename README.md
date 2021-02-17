@@ -1,1 +1,1 @@
-# react_blog
+# blog_react

@@ -1,0 +1,19 @@
+.loginBody {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+  background-image: linear-gradient(38deg, #2575fc, #6a11cb);
+
+}
+.login-div{
+    margin: 0px auto;
+    width: 400px;
+    height: 272px;
+    align-self: center;
+
+    /* display: inline-block;
+    vertical-align: middle; */
+}
+body{
+    background-color: #f0f0f0;
+}

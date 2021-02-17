@@ -1,0 +1,25 @@
+.authorBox {
+  background-color: #fff;
+  margin-left: 0.5rem;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  border: 1px solid #eee;
+  text-align: center;
+  padding: 1rem;
+}
+.authorBox div {
+  margin-bottom: 1rem;
+}
+.authorName {
+  font-size: 1rem;
+  color: #1890ff;
+}
+.introduction {
+  font-size: 0.8rem;
+  color: #999;
+}
+.account {
+  background-color: #999;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}

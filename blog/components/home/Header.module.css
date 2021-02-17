@@ -1,0 +1,18 @@
+.header {
+    background-color: #fff;
+    padding: .4rem;
+    overflow: hidden;
+    height: 3.2rem;
+    border-bottom: 1px solid #eee;
+}
+.headerLoge {
+    color: #1e90ff;
+    font-size: 1.4rem;
+    text-align: left;
+}
+.headerTxt {
+    font-size: .6rem;
+    display: inline-block;
+    color: #999;
+    padding-left: .3rem;
+}

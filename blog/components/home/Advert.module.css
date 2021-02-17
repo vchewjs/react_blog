@@ -1,0 +1,13 @@
+.AdvertBox {
+  margin-top: 0.5rem;
+  background-color: #fff;
+  margin-left: 0.5rem;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  border: 1px solid #eee;
+}
+.AdvertBox div {
+  border-radius: 0.3rem;
+  margin-bottom: 0.2rem;
+  overflow: hidden;
+}
